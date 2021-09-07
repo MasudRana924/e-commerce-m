@@ -19,12 +19,76 @@ body{
     height:400px;
 
 }
-.mens-part a{
+.link a{
     text-decoration: none;
-    color:black;
+    color:palevioletred;
     font-size: 18px;
 }
-.mens-part a:hover{
+.link a:hover{
     color:red;
     text-decoration:underline;
+}
+.button{
+    height:30px;
+ background-color: fuchsia;
+ border-radius: 5px;
+ border: 1px solid fuchsia;
+ padding:0px 15px 0px 15px;
+ text-align: center;
+ color:white;
+ font-size: 18px;
+}
+footer{
+    height:100px;
+}
+.fab{
+    font-size: 40px;
+    padding-left: 15px;
+ 
+}
+.fa-facebook{
+    color:rgba(0, 0, 255, 0.705);
+}
+.fa-instagram{
+    color:orangered;
+}
+.fa-youtube{
+    color:red;
+}
+.fa-google{
+    color:seagreen;
+}
+.logo{
+    height:100px;
+    width:300px;
+}
+.shadow-class{
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.para{
+    font-size:11px;
+}
+.para-three{
+    font-size: 12px;
+}
+.para-three a{
+    text-decoration: none;
+}
+.para-two{
+    font-size:13px;
+}
+.need-help{
+    text-decoration: none;
+    margin-top: 40px;
+}
+.desc a{
+    text-decoration: none;
+   font-size: 11px;
+}
+.card-style{
+    border-radius: ;
+}
+.far{
+    font-size: 16px;
+    color: darkgoldenrod;
 }
