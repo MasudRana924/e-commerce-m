@@ -5,6 +5,10 @@ body{
 .header{
 
 }
+.navbar-style{
+    background-color: rgb(4, 4, 31) ;
+}
+
 .ul-li-a li{
     list-style: none;
 }
@@ -30,33 +34,32 @@ body{
 }
 .button{
     height:30px;
- background-color: fuchsia;
+ background-color: 	tomato;
  border-radius: 5px;
- border: 1px solid fuchsia;
+ border: 1px solid 	tomato;
  padding:0px 15px 0px 15px;
  text-align: center;
  color:white;
  font-size: 18px;
 }
-footer{
-    height:100px;
+.para-details{
+    font-size: 13px;
+    color:black;
 }
 .fab{
-    font-size: 40px;
-    padding-left: 15px;
- 
+    font-size:30px;
 }
 .fa-facebook{
-    color:rgba(0, 0, 255, 0.705);
+    color:dodgerblue;
 }
 .fa-instagram{
-    color:orangered;
-}
-.fa-youtube{
-    color:red;
+    color:goldenrod;
 }
 .fa-google{
-    color:seagreen;
+    color:rgb(4, 36, 4);
+}
+footer{
+    background-color: rgb(4, 4, 31);
 }
 .logo{
     height:100px;
